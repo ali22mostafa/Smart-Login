@@ -113,3 +113,19 @@ nav{
    margin-top: 3px;
 }
 /* end signup */
+
+
+
+/* media */
+@media screen and (max-width:784px) {
+
+    .font-1{
+        font-size: 1rem !important;
+    }
+    .font-2{
+        font-size: 1.4rem !important;
+    }
+    #welcomeUser{
+        font-size: 1.4rem !important; 
+    }
+}
